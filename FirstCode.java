@@ -8,5 +8,7 @@ public class FirstCode{
         String name = scan.nextLine();
 
         System.out.println("Name Entered: " + name);
+
+        scan.close();
     }
 }
