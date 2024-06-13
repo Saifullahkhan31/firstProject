@@ -6,10 +6,13 @@ public class FirstCode{
         //creating scanner object
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Enter you Name: ");
+        System.out.println("Enter your Name: ");
         String name = scan.nextLine();
 
-        System.out.println("Name Entered: " + name);
+        System.out.println("Enter your Age: ");
+        int age = scan.nextInt();
+
+        System.out.println("Name and Age Entered: " + name + " " + age);
 
         //Closing scanner object
         scan.close();
