@@ -1,7 +1,9 @@
+//importing scanner class
 import java.util.Scanner;
 
 public class FirstCode{
     public static void main(String[] args) {
+        //creating scanner object
         Scanner scan = new Scanner(System.in);
 
         System.out.println("Enter you Name: ");
@@ -9,6 +11,7 @@ public class FirstCode{
 
         System.out.println("Name Entered: " + name);
 
+        //Closing scanner object
         scan.close();
     }
 }
