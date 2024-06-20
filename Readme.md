@@ -1,3 +1,4 @@
-This is my first projec learning Git
+# **Learning Git**
+This is my first project pushed using Git
 Author - Saifullah
-Learning from YT - Telusko
+Learning from Youtube - Telusko
