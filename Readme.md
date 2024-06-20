@@ -3,4 +3,4 @@ This is my first project pushed using Git
 
 > Author - `Saifullah`
 
-Learning from Youtube - Telusko
+> Learning from Youtube - `Telusko`
